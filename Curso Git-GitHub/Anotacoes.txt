@@ -1,0 +1,63 @@
+Git & GitHub
+
+GIT - versionamento do codigo
+
+controle de versão
+
+armazenamento em nuvem
+
+trabalho em equipe
+
+melhorar seu codigo
+
+reconhecimento
+
+GIT Comandos basicos
+
+mudar de pastas   - cd
+
+listar pastas  - dir
+
+criar pastas/arquivos  -  mkdir
+
+deletar pastas/arquivos   del/rmdir workspace /S /Q
+
+cls - limpa a tela
+
+tab completa o comando
+
+Objetos do GIT
+
+BLOBS - tipo do objeto, tamanho e conteudo
+
+TREES - armazenam nome dos arquivos,  blobs e aponta tipo de dados diferentes e o commits
+
+COMMITS - o objeto que vai juntar tudo 
+
+Seguro  - sistema distruido do seu codigo no servidor na nuvem 
+
+Chaves SSH - chave segura e criptada entre dois computadores
+
+ Tokens
+
+git init
+
+git add *
+
+git comment
+
+Git Hub
+
+git config —list - verificar as configurações 
+
+deixar meu repositorio remoto no gitbuh
+
+git remote add oring ( colocar url do gitbug)
+
+git remote -v - lista os repositorios
+
+git push origin master - empurrar para o repositorio 
+
+git pull origin master - puxar os arquivos do repositorio para o remoto
+
+git clone (utl) - clona o repositorio para sua maquina remota
