@@ -1,2 +1,2 @@
-# dio_desafio_githubr-primeiro-repc
+# dio_desafio_github-primeiro-repc
 Repositorio criado para o desafio de projeto 
